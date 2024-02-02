@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Menu.unity
+    guid: 520f930f39a9aad489a2ecdb12e7da30
+  - enabled: 1
+    path: Assets/Scenes/Swordplay.unity
+    guid: 35a0f18188174704f8d2ca5b1cf4ab49
+  - enabled: 1
+    path: Assets/Scenes/Wakeboarding.unity
+    guid: 6077b371877507643abb5445bc9daad5
+  - enabled: 1
+    path: Assets/Scenes/Archery.unity
+    guid: a2dd7b229889e2f45a9ef7232f10e37f
+  - enabled: 1
+    path: Assets/Scenes/Air Sport.unity
+    guid: 8665a52513cec0c4b8cf4aeceadcb19e

@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: ae07b5fd9fb6fe840a330cda9f0c09c9
+timeCreated: 1706649594
+licenseType: Pro
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Crunch Chips
+  fontNames:
+  - Crunch Chips
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
