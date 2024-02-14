@@ -7,7 +7,9 @@
 I was able to find the Unity 2017 extension to add Wii U build support. This lets me have access to all of the features given by Nintendo for the console. I then created an idea that I found in a post by NBreezi which included an idea for a more violent take on Wii Sports Resort.
 
 Play The Game: - https://thedevatlas.itch.io/wii-are-resorting-to-violence
+
 Check Out Part 1: - https://youtu.be/BKEaG7PdiaA
+
 Check Out Part 2: - https://www.youtube.com/watch?v=OIVhupsDbu8
 
 Resources 
